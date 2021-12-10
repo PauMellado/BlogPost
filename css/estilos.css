@@ -1,6 +1,7 @@
 body
 {
     color: #333;
+    background: url("../Imagenes/Luffy.png") 10px 10px;
     text-align: center;
     font-family: "Curier";
     font-size: 16px;
@@ -8,6 +9,8 @@ body
     padding: 0;
 }
 #cabecera{
+
+   
     background-color: blue;
     color: white;
     margin: 0;
